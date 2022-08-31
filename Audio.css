@@ -1,0 +1,36 @@
+.h{
+	font-family: sans-serif;
+	font-size: 500%;
+	padding-left: 30px;
+	background-color: #ffffff;
+	padding-bottom: 30px;
+	padding-top: 50px;
+	position: relative;
+	bottom: 50px;
+	color: black;
+	border-radius: 30px;
+
+}
+.lin{
+	position: relative;
+	bottom: 90px;
+	text-decoration: none;
+	color:#ffffff; 
+	font-size: 200%;
+	float: right;
+	padding-right: 40px;
+	border: solid;
+	border-radius: 30px;
+}
+.t{
+	background-color: #000000;
+}
+.k{
+	color: white;
+	
+}
+.li{
+	text-decoration: none;
+	font-size: 200%;
+	color: white;
+}
